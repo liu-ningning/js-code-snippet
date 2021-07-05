@@ -1,1 +1,5 @@
-# js-code-snippet
+## 常用的JS代码片段汇中
+
+请移步 Issues 中查看
+
+不定时更新记录
